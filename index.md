@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Setting up the Shining Self
 ---
 
